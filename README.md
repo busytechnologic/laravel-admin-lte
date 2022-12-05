@@ -1,12 +1,12 @@
-# Laravel-8-AdminLTE
-Laravel 8 with AdminLTE3 template integrated. Login-Registration & Dashboard
+# Laravel-AdminLTE
+Laravel with AdminLTE template integrated. Login-Registration & Dashboard
 
 Installation
-1. Clone repository https://github.com/jedv3588/Laravel-8-AdminLTE.git
-2. composer install
-3. npm install
-4. config .env and database
-5. php artisan migrate
-6. php artisan db:seed
-7. php artisan serve
+1. Clone repository https://github.com/busytechnologic/laravel-admin-lte.git
+2. Run `composer install`
+3. Run `npm install` or `yarn install`
+4. Config `.env` and `database`
+5. Run `php artisan migrate`
+6. Run `php artisan db:seed`
+7. Run `php artisan serve`
 Done!
